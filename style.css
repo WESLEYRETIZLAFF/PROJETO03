@@ -1,3 +1,14 @@
 h2{
     background-color: rgb(99, 241, 194);
 }
+
+ .principal{
+background-color: #07f0a2;
+color: #06f3a4;
+ }
+
+ .rodape{
+background-color: #06f3a4;
+color: aqua;
+text-align: center;
+ }
